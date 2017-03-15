@@ -1,1 +1,2 @@
 def
+Added line to file3 using branch master"
